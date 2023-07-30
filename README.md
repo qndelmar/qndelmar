@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/qndelmar/qndelmar/assets/118426764/89affdf2-fb46-4d10-a3ec-7a54bd52cafe)
+![MasterHead](https://github.com/qndelmar/qndelmar/assets/118426764/89affdf2-fb46-4d10-a3ec-7a54bd52cafe)
 
 ###
 <p align="center">
