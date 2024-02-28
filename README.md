@@ -29,7 +29,7 @@ I'm 4th year student at the Krasnodar College of Electronic Instrumentation in C
 <p align="center">Listen with me!</p>
 <p align="center">
  <a href="https://open.spotify.com/user/0faddhs17pztm176hqin5m3ne">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=0faddhs17pztm176hqin5m3ne&cover_image=true&theme=novatorem&show_offline=true&background_color=edece3&bar_color=c498fb&bar_color_cover=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=0faddhs17pztm176hqin5m3ne&cover_image=false&theme=default&show_offline=true&background_color=240066&interchange=true&bar_color=00ff91">
   </a>
 </p>
 
